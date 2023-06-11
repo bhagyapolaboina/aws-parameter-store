@@ -10,3 +10,4 @@ variable "params" {
     {name = "demo2", value = "demo2" , type = "string"}
   ]
 }
+
