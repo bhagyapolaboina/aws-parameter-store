@@ -9,5 +9,5 @@ variable "params" {
     {name = "demo1", value = "demo1" , type = "string"},
     {name = "demo2", value = "demo2" , type = "string"}
   ]
-}
+
 
