@@ -13,5 +13,5 @@ variable "params" {
     { name = "roboshop.dev.fronted.shipping_url", value = "http://172.31.92.27:8080", type = "String" },
 
   ]
-
+}
 
