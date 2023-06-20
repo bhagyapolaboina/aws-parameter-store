@@ -10,7 +10,7 @@ variable "params" {
     { name = "roboshop.dev.fronted.user_url", value = "http://172.31.95.5:8080/", type = "String" },
     { name = "roboshop.dev.fronted.cart_url", value = "http://172.31.93.136:8080/", type = "String" },
     { name = "roboshop.dev.fronted.payment_url", value = "http://172.31.85.181:8080/", type = "String" },
-    { name = "roboshop.dev.fronted.shipping_url", value = "http://172.31.92.27:8080/", type = "String" },
+    { name = "roboshop.dev.fronted.shipping_url", value = "http://172.31.92.27:8080/", type = "String" }
 
   ]
 }
